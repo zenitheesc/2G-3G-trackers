@@ -12,6 +12,10 @@ Manual de comandos do SIM800
 
 https://drive.google.com/file/d/0B91L9po09u35VFVMbjJ0cVl3N1E/view?resourcekey=0-AqxC9ja4oVA2a5dD8eYJ7g
 
-Comandos Básicos
+Comandos Básicos SIM800
 
 https://drive.google.com/file/d/0B91L9po09u35bTgwZ1FPaEVBNzA/view?resourcekey=0-BuhzJL2X7NVVdcgdTJoSXw
+
+Manual de comandos do M95
+
+https://docs.rs-online.com/7af4/0900766b8147dc19.pdf
