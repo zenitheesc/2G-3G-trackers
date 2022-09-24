@@ -12,6 +12,10 @@ Manual de comandos do SIM800
 
 https://drive.google.com/file/d/0B91L9po09u35VFVMbjJ0cVl3N1E/view?resourcekey=0-AqxC9ja4oVA2a5dD8eYJ7g
 
+Manual de hardware do SIM800L
+
+https://www.filipeflop.com/img/files/download/Datasheet_SIM800L.pdf
+
 Comandos Básicos SIM800
 
 https://drive.google.com/file/d/0B91L9po09u35bTgwZ1FPaEVBNzA/view?resourcekey=0-BuhzJL2X7NVVdcgdTJoSXw
