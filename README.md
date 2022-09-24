@@ -20,6 +20,10 @@ Manual de comandos do M95
 
 https://docs.rs-online.com/7af4/0900766b8147dc19.pdf
 
+Manual de hardware do M95
+
+https://www.quectel.com/wp-content/uploads/2021/06/Quectel_M95_Hardware_Design_V3.2.pdf
+
 Informações Quectel M95
 
 https://www.quectel.com/wp-content/uploads/pdfupload/Quectel_M95_GSM_Specification_V3.1.pdf
