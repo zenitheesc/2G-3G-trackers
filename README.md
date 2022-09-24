@@ -19,3 +19,7 @@ https://drive.google.com/file/d/0B91L9po09u35bTgwZ1FPaEVBNzA/view?resourcekey=0-
 Manual de comandos do M95
 
 https://docs.rs-online.com/7af4/0900766b8147dc19.pdf
+
+Informações Quectel M95
+
+https://www.quectel.com/wp-content/uploads/pdfupload/Quectel_M95_GSM_Specification_V3.1.pdf
